@@ -3,7 +3,8 @@ cd time-series
 . bin/activate
 pip install django
 django-admin startproject project
-Rename project: ProjectConainer
+Rename project: 
+mv project ProjectContainer
 
 Now inside ProjectContainer use git pull to clone
 

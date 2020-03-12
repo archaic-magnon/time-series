@@ -7,7 +7,7 @@ Rename project: ProjectConainer
 
 Now inside ProjectConainer use git pull to clone
 
-All apps will be inside ProjectConainer folder
+All apps will be inside ProjectContainer folder
 
 Made changes
 git add .

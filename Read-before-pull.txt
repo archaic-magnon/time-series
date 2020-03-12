@@ -1,6 +1,7 @@
 virtualenv time-series
 cd time-series
 . bin/activate
+pip install django
 django-admin startproject project
 Rename project: ProjectConainer
 

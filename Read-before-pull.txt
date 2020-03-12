@@ -5,7 +5,7 @@ pip install django
 django-admin startproject project
 Rename project: ProjectConainer
 
-Now inside ProjectConainer use git pull to clone
+Now inside ProjectContainer use git pull to clone
 
 All apps will be inside ProjectContainer folder
 
